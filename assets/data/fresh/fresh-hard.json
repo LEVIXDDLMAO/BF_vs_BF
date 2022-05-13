@@ -8517,7 +8517,7 @@
 		"player3": "gf",
 		"isHey": false,
 		"cutsceneType": "none",
-		"song": "fresh",
+		"song": "Fresh",
 		"validScore": true,
 		"speed": 3.2,
 		"sectionLengths": [],
@@ -9187,7 +9187,7 @@
 		"gfVersion": "gf",
 		"sections": 0,
 		"needsVoices": true,
-		"stage": "Stage",
+		"stage": "stage",
 		"uiType": "normal",
 		"gf": "gf",
 		"bpm": 120
